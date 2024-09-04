@@ -13,8 +13,8 @@ I'm a software engineer with a love for all things Linux and open source. My jou
 - **Open Source**: Contributing to various projects, creating tools and libraries, documentation
 
 ## 🌟 Projects
-- Contributor to [VanillaOS](github.com/vanilla-os)
-- Unofficial contributor to [Bazzite and Ublue](github.com/ublue-os)
+- Contributor to [VanillaOS](https://github.com/vanilla-os)
+- Unofficial contributor to [Bazzite and Ublue](https://github.com/ublue-os)
 - Former maintainer of Debian and Ubuntu
 
 ## 🤝 Get in Touch
