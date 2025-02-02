@@ -9,7 +9,7 @@ I'm a software engineer with a love for all things Linux and open source. My jou
 
 - **Languages**: Python, C, Bash, JavaScript, Go
 - **Tools**: Git, Docker, Kubernetes
-- **Technologies**: Linux (Debian, Fedora, Arch), OCI, MERN
+- **Technologies**: Linux (Debian, Fedora, Arch), OCI, MERN, Android
 - **Open Source**: Contributing to various projects, creating tools and libraries, documentation
 
 ## 🌟 Projects
