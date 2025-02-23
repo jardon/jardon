@@ -14,7 +14,6 @@ I'm a software engineer with a love for all things Linux and open source. My jou
 
 ## 🌟 Projects
 - Contributor to [VanillaOS](https://github.com/vanilla-os)
-- Unofficial contributor to [Bazzite and Ublue](https://github.com/ublue-os)
 - Contributor to [BlissOS](https://github.com/BlissOS)
 - Flatpak packages
 - Former maintainer of Debian and Ubuntu
