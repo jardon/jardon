@@ -5,6 +5,8 @@ Hello there! 👋 I'm a passionate software engineer with a deep interest in Lin
 
 I'm a software engineer with a love for all things Linux and open source. My journey in tech began with exploring various Linux distributions, and over the years, I've built a strong foundation in software development, system administration, and open-source contributions. I thrive on collaborating with like-minded individuals and contributing to projects that make the world of technology a better place.
 
+Here's my blog: https://jardon.dev/
+
 ## 🛠️ Skills
 
 - **Languages**: Python, C, Bash, JavaScript, Go
